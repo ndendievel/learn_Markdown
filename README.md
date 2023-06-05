@@ -56,4 +56,10 @@ C'est super fun Git & GitHub :upside_down_face:
 2. Choux  
 3. Lentilles  
 
+## Listes imbriquée  
+* Element 1
+	* Element 1.A
+		* Element 1.A.1
+		* Element 1.A.2
+
 
