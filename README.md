@@ -37,4 +37,10 @@ Lien vers un autre fichier [Vers test.md](test.md).
 
 # Ajouter une image  
 
-![Logo](https://th.bing.com/th/id/OIP.kEvBwfvauS3w0ZjJtAt4mAHaEK?pid=ImgDet&rs=1).  
+![Logo](https://th.bing.com/th/id/OIP.kEvBwfvauS3w0ZjJtAt4mAHaEK?pid=ImgDet&rs=1)  
+
+# Ajouter un emoji  
+
+Pour trouver la liste des emojis disponibles avec GitHub: [Liste des emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)  
+C'est super fun Git & GitHub :upside_down_face:  
+
