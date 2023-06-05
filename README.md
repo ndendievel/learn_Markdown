@@ -34,3 +34,7 @@ git commit -m "Nom du commit"
 
 Pour aller sur mon site: [Codabee](https://www.codabee.com).  
 Lien vers un autre fichier [Vers test.md](test.md).  
+
+# Ajouter une image  
+
+![Logo](https://codabee.com/wp-content/uploads/2022/04/logo_white.png).  
